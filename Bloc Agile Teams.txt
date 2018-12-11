@@ -1,0 +1,46 @@
+﻿1. What are the typical Agile team roles and what parts of the development lifecycle is each role responsible for?
+   1. Product Manager - Responsible for strategy, roadmap, and feature definition of a product. 
+   2. Project Manager - responsible for process management and on-time delivery of one or more product teams. 
+   3. Designer - responsible for the look and feel of a product. 
+   4. User Researcher - responsible for understanding the reasons behind the behavior, wants and needs of end users. 
+   5. Team Lead - responsible for technical management, direction and quality of one or more projects. 
+   6. Developer - responsible for technical creation, maintenance, and overall integrity of the product. 
+2. Why do we use Kanban boards in Agile development?
+   1. Kanban boards help to keep track of each stage of the project, and who is responsible for each stages completion. 
+3. Explain velocity and sprint as if you were teaching another student.
+   1. Sprint is a measure of time, ranging between one to four weeks, in which work on a product feature is completed. 
+   2. Velocity is the number of points per sprint a team completes. 
+4. What format makes a good user story?
+   1. “As a ____, I want ___, so ___.”
+5. What are different estimation methods teams can use? Explain pros and cons of each method. Which method would you prefer?
+   1. Cards, group discussions, or an online tool. 
+   2. The advantage of using cards, would be that they are included with the Kanban board, and everyone would have access to them. A group discussion would also facilitate agreements and disagreements. An online tool could help organize estimation points. 
+6. Give a real-world example of a development project, and explain the breakdown into epic(s), slices, cards, and tasks.
+   1. New blog site (Epic)
+      1. Home Page (Slice)
+         1. Header (card)
+         2. Content(card)
+         3. Contact form (card)
+7. Explain in your own words what a dual-track system is and what advantages it provides.
+   1. A dual-track system is when a team works on one aspect of a product, while another team works on a different aspect of the same product. The advantage that this provides is that versions of the product can be released quicker. 
+8. Choose one of the following projects and write each card that would be in the epic. Estimate each card. What columns would you need to have on your Kanban board?
+   a. Planning a vacation. 
+      1. Choosing location
+         1. Paris
+         2. London
+         3. New York
+      2. Buy Airfare
+         1. Non-Stop
+         2. Layovers
+      3. Hotel
+         1. Single
+         2. Double
+      4. Things to do
+         1. Sightseeing
+         2. Shopping
+         3. Museums
+         4. Dining. 
+      5. How long
+         1. Weekend
+         2. Week
+         3. Two Weeks
